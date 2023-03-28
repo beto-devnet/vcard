@@ -1,0 +1,81 @@
+﻿    body {
+        font-family: 'Raleway', serif;
+        background-color: #111319;
+        color: #efe8e8;
+    }
+
+    .content {
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .developers-image {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 10px;
+    }
+
+    .developer-profile {
+        margin: 50px 0 50px 0;
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .developer-profile-image {
+        height: 150px;
+        width: 160px;
+        text-align: center;
+        border-radius: 50%;
+        margin-bottom: 20px;
+        border: solid 8px white;
+    }
+
+    .developer-information ul {
+        list-style: none;
+    }
+
+    .developer-information ul li {
+        margin: 10px 0 10px 0;
+        padding: 5px;
+    }
+
+    .developer-information ul li div {
+        display: flex;
+        align-items: center;
+    }
+
+    .developer-information ul li div > span {
+        margin-right: 15px;
+    }
+
+    .developer-information ul li div span a:visited {
+        text-decoration: none;
+        color: #efe8e8;
+    }
+
+    .developer-information ul li div span a:visited {
+        text-decoration: none;
+        color: #efe8e8;
+    }
+
+    .developer-calltoaction {
+        position: fixed;
+        bottom: 0;
+        right: 10;
+        width: 100%;
+        margin: 10px;
+    }
+
+    .developer-calltoaction button {
+        background-color: #efe8e8;
+        border: none;
+        color: #111319;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        width: 90%;
+    }

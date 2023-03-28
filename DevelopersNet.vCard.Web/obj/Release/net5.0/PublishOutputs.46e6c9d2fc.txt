@@ -1,0 +1,8 @@
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net5.0\PubTmp\Out\vCards\doug.vcf
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net5.0\PubTmp\Out\DevelopersNet.vCard.Web.exe
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net5.0\PubTmp\Out\DevelopersNet.vCard.Web.dll
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net5.0\PubTmp\Out\DevelopersNet.vCard.Web.deps.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net5.0\PubTmp\Out\DevelopersNet.vCard.Web.runtimeconfig.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net5.0\PubTmp\Out\DevelopersNet.vCard.Web.pdb

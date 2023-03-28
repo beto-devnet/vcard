@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Loyo;Douglas;;Mr.;
+FN:Douglas Loyo
+ORG:Developers.Net
+TITLE:CEO & Founder
+PHOTO;VALUE#URI;TYPE#GIF:http://www.example.com/dir_photos/my_photo.gif
+TEL;TYPE#WORK,VOICE:(888) 319-6373 ext.710
+ADR;TYPE#WORK,PREF:;;1401 Lavaca St. Suite 40997;Austin;TX;78701;United States of America
+LABEL;TYPE#WORK,PREF:1401 Lavaca St. Suite 40997\nAustin\, TX 78701\nUnited States of America
+EMAIL:doug@developers.net
+REV:2022-01-19T10:52:43Z
+END:VCARD

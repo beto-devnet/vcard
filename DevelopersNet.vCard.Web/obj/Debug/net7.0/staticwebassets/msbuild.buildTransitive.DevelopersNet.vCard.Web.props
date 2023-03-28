@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DevelopersNet.vCard.Web.props" />
+</Project>

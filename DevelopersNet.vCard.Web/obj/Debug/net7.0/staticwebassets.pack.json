@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\doug.jpg",
+      "PackagePath": "staticwebassets\\images\\doug.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DevelopersNet.vCard.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DevelopersNet.vCard.Web.props",
+      "PackagePath": "build\\DevelopersNet.vCard.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DevelopersNet.vCard.Web.props",
+      "PackagePath": "buildMultiTargeting\\DevelopersNet.vCard.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DevelopersNet.vCard.Web.props",
+      "PackagePath": "buildTransitive\\DevelopersNet.vCard.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

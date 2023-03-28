@@ -1,0 +1,12 @@
+{
+  "Name": "Douglas Loyo",
+  "Description": "CEO",
+  "Phone": "1234567890",
+  "Email": "doug@developers.net",
+  "WebPage": "https://www.developers.net/",
+  "Address": "Some street",
+  "ProfileImage":  "doug.jpg",
+  "PublicProfilesUrl": [
+    "https://www.linkedin.com/in/douglasloyo/"
+  ]
+}

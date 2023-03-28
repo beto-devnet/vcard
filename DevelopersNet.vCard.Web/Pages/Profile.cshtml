@@ -1,0 +1,87 @@
+﻿@page "{employee}"
+@model DevelopersNet.vCard.Web.Pages.ProfileModel
+@{
+    //ViewData["Employee"] = "";
+}
+
+<div class="content">
+    <div class="developers-image">
+        <img src="https://global-uploads.webflow.com/5f3d410928fe5ab99418a7ee/5f3d417153441824dd7830c1_logo-w.svg" alt="">
+    </div>
+
+    @if (Model.Profile == null)
+    {
+
+        <div style="display: flex; justify-content:center; margin-top: 50px;">
+            <span>Employee @ViewData["employee"] does not exist</span>
+        </div>
+    }
+    else
+    {
+
+        <div class="developer-profile">
+            <div>
+                <img class="developer-profile-image" src="~/images/@Model.Profile.ProfileImage" alt="profile">
+            </div>
+            <div>
+                @Model.Profile.Name - @Model.Profile.Description
+            </div>
+        </div>
+
+        <div class="developer-information">
+            <ul>
+                <li>
+                    <div>
+                        <span class="material-symbols-outlined">mail</span>
+                        <span>@Model.Profile.Email</span>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <span class="material-symbols-outlined">call</span>
+                        <span>@Model.Profile.Phone</span>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <span class="material-symbols-outlined">public</span>
+                        <span>
+                            <a href="@Model.Profile.WebPage">@Model.Profile.WebPage</a>
+                        </span>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <span class="material-symbols-outlined">location_city</span>
+                        <span>@Model.Profile.Address</span>
+                    </div>
+                </li>
+                <li>
+                    @if(Model.Profile.PublicProfilesUrl.Count() > 0)
+                    {
+                        <div style="justify-content:center; color: #979797; margin-bottom:20px;">Connect with me at</div>
+                        <div style="display:flex; justify-content: center;">
+                            @foreach (var profile in Model.Profile.PublicProfilesUrl)
+                            {
+                                <div style="font-size: 25px;">
+                                    @if (profile.Contains("linkedin"))
+                                    {
+                                        <i class="fa-brands fa-linkedin"></i>                                    
+                                    }
+                                </div>
+                            }
+                        </div>
+                    }
+                </li>
+            </ul>
+        </div>
+
+        
+    }
+</div>
+@if (Model.Profile != null)
+{
+    <div class="developer-calltoaction">
+        <button>Add to Contacts</button>
+    </div>    
+}

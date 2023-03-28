@@ -1,0 +1,53 @@
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\appsettings.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.exe
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.deps.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.runtimeconfig.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.runtimeconfig.dev.json
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.dll
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\ref\DevelopersNet.vCard.Web.dll
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.pdb
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.csproj.AssemblyReference.cache
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.AssemblyInfoInputs.cache
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.AssemblyInfo.cs
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.csproj.CoreCompileInputs.cache
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\staticwebassets\DevelopersNet.vCard.Web.StaticWebAssets.Manifest.cache
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\staticwebassets\DevelopersNet.vCard.Web.StaticWebAssets.xml
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\scopedcss\bundle\DevelopersNet.vCard.Web.styles.css
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.RazorTargetAssemblyInfo.cache
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.dll
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\ref\DevelopersNet.vCard.Web.dll
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.pdb
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.genruntimeconfig.cache
+C:\Projects\DevsNet\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\vCards\doug.vcf
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.StaticWebAssets.xml
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.exe
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\vCards\doug.vcf
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.deps.json
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.runtimeconfig.json
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.runtimeconfig.dev.json
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.dll
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\bin\Debug\net5.0\DevelopersNet.vCard.Web.pdb
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.csproj.AssemblyReference.cache
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.AssemblyInfoInputs.cache
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.AssemblyInfo.cs
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.csproj.CoreCompileInputs.cache
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\scopedcss\bundle\DevelopersNet.vCard.Web.styles.css
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\staticwebassets\DevelopersNet.vCard.Web.StaticWebAssets.Manifest.cache
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\staticwebassets\DevelopersNet.vCard.Web.StaticWebAssets.Pack.cache
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\staticwebassets\msbuild.DevelopersNet.vCard.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\staticwebassets\msbuild.build.DevelopersNet.vCard.Web.props
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DevelopersNet.vCard.Web.props
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DevelopersNet.vCard.Web.props
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.RazorTargetAssemblyInfo.cache
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.dll
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\refint\DevelopersNet.vCard.Web.dll
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.pdb
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\DevelopersNet.vCard.Web.genruntimeconfig.cache
+C:\Users\betor\Downloads\DevelopersNet.vCard.Web (1)\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Debug\net5.0\ref\DevelopersNet.vCard.Web.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "CPNXQZzUPdCaHbO3EpGXZUf7c9h22SpzAlNYPYnzIHg=",
+  "Source": "DevelopersNet.vCard.Web",
+  "BasePath": "_content/DevelopersNet.vCard.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DevelopersNet.vCard.Web\\wwwroot",
+      "Source": "DevelopersNet.vCard.Web",
+      "ContentRoot": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\",
+      "BasePath": "_content/DevelopersNet.vCard.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\css\\styles.css",
+      "SourceId": "DevelopersNet.vCard.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\",
+      "BasePath": "_content/DevelopersNet.vCard.Web",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\doug.jpg",
+      "SourceId": "DevelopersNet.vCard.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\",
+      "BasePath": "_content/DevelopersNet.vCard.Web",
+      "RelativePath": "images/doug.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\doug.jpg"
+    }
+  ]
+}
