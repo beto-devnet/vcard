@@ -39,6 +39,8 @@ namespace DevelopersNet.vCard.Web.Controllers
         [HttpGet, Route("{name}")]
         public async Task<IActionResult> Get(string name)
         {
+            //var baseUri = $"{Request.Scheme}://{Request.Host}/profile/{name}";
+            //return Redirect(baseUri);
             return new vCardActionResult(name);
         }
     }

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mendoza;Pao;;Ms.;
+FN:Pao Mendoza
+ORG:Developers.Net
+TITLE:Director of HR & Recruitment
+PHOTO;VALUE#URI;TYPE#GIF:http://www.example.com/dir_photos/my_photo.gif
+TEL;TYPE#WORK,VOICE:+52 (55) 1412-0349
+ADR;TYPE#WORK,PREF:;;1401 Lavaca St. Suite 40997;Austin;TX;78701;United States of America
+LABEL;TYPE#WORK,PREF:1401 Lavaca St. Suite 40997\nAustin\, TX 78701\nUnited States of America
+EMAIL:paola@developers.net
+REV:2022-08-29T10:52:43Z
+END:VCARD

@@ -1,11 +1,12 @@
 {
   "Name": "Douglas Loyo",
-  "Description": "CEO",
-  "Phone": "1234567890",
+  "Description": "Founder & CEO",
+  "Phone": "888 319 6373",
   "Email": "doug@developers.net",
   "WebPage": "https://www.developers.net/",
-  "Address": "Some street",
-  "ProfileImage":  "doug.jpg",
+  "Address": "Austin, TX",
+  "ProfileImage": "doug.png",
+  "VCardName":  "dougloyo",
   "PublicProfilesUrl": [
     "https://www.linkedin.com/in/douglasloyo/"
   ]

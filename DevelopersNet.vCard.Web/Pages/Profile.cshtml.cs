@@ -36,6 +36,7 @@ namespace DevelopersNet.vCard.Web.Pages
         public string WebPage { get; set; }
         public string Address { get; set; }
         public string ProfileImage { get; set; }
+        public string VCardName { get; set; }
         public string[] PublicProfilesUrl { get; set; }
     }
 }

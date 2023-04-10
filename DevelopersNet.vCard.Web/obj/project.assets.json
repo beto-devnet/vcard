@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web.csproj",
+      "projectUniqueName": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web.csproj",
       "projectName": "DevelopersNet.vCard.Web",
-      "projectPath": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web.csproj",
+      "projectPath": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web.csproj",
       "packagesPath": "C:\\Users\\betor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\betor\\Downloads\\DevelopersNet.vCard.Web (1)\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\obj\\",
+      "outputPath": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

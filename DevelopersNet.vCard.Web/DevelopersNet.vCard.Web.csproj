@@ -5,12 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="vCards\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\css\styles.css" />
-    <None Include="wwwroot\images\doug.jpg" />
   </ItemGroup>
 
   <ItemGroup>
