@@ -1,0 +1,13 @@
+{
+  "Name": "Emilio Baez",
+  "Description": "President",
+  "Phone": "888 319 6373",
+  "Email": "emilio@developers.net",
+  "WebPage": "https://www.developers.net/",
+  "Address": "Austin, TX",
+  "ProfileImage": "emilio.jpg",
+  "VCardName": "emiliobaez",
+  "PublicProfilesUrl": [
+    "https://www.linkedin.com/in/ebaez/"
+  ]
+}

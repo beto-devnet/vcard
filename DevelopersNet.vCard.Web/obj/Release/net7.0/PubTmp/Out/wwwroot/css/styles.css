@@ -1,0 +1,171 @@
+﻿body {
+    font-family: 'Raleway', serif;
+    background-color: white;
+    color: black;
+    margin:0px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.developers-image {
+    width: 100%;
+    height: 100%;
+    border-bottom: solid 6px green;
+}
+
+.developer-profile {
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.developer-profile-image {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+.developer-information {
+    margin-top: 120px;
+    margin-bottom: 80px;
+}
+
+.developer-information-name {
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+.developer-information-description {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.developer-information-separator {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.developer-information ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.developer-information ul li {
+    margin: 10px 0 10px 0;
+    padding: 5px;
+}
+
+.developer-information ul li div {
+    display: flex;
+    align-items: center;
+}
+
+.developer-information ul li div > img {
+    height: 50px;
+}
+
+.developer-information ul li div i {
+    font-size: 45px;
+}
+
+.developer-information ul li div span {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold
+}
+
+.developer-information ul li div span a {
+    text-decoration: none;
+    color: black;
+}
+
+.developer-information ul li div span a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.developer-calltoaction {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 10px;
+}
+
+.developer-calltoaction button {
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    width: 90%;
+}
+
+.developer-calltoaction button img {
+    height: 25px;
+    margin-right: 10px;
+}
+
+@media only screen and (min-width: 320px) {
+    .developer-profile {
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    } 
+}
+
+@media only screen and (min-width: 375px) {
+    .developer-profile {
+        position: absolute;
+        top: 23%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .developer-profile {
+        position: absolute;
+        top: 43%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .developer-profile-image {
+        height: 250px;
+        width: 250px;
+    }
+
+}
+
+@media only screen and (min-width: 1024px) {
+    .developer-profile {
+        position: absolute;
+        top: 57%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .developer-profile-image {
+        height: 300px;
+        width: 300px;
+    }
+
+    .developer-information {
+        margin-top: 170px;
+    }
+}

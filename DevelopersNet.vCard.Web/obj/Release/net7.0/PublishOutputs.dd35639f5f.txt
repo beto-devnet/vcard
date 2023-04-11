@@ -1,0 +1,12 @@
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\vCards\doug.vcf
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\DevelopersNet.vCard.Web.exe
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\Profiles\anuar.json
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\Profiles\doug.json
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\Profiles\emilio.json
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\Profiles\paola.json
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\DevelopersNet.vCard.Web.dll
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\DevelopersNet.vCard.Web.deps.json
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\DevelopersNet.vCard.Web.runtimeconfig.json
+C:\code\Developers.net\DevelopersNet.vCard.Web\DevelopersNet.vCard.Web\obj\Release\net7.0\PubTmp\Out\DevelopersNet.vCard.Web.pdb

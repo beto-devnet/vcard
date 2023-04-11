@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\Background.png",
+      "PackagePath": "staticwebassets\\images\\Background.png"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\Icon_Add.svg",
+      "PackagePath": "staticwebassets\\images\\Icon_Add.svg"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\Icon_Address.svg",
+      "PackagePath": "staticwebassets\\images\\Icon_Address.svg"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\Icon_Email.svg",
+      "PackagePath": "staticwebassets\\images\\Icon_Email.svg"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\Icon_Phone.svg",
+      "PackagePath": "staticwebassets\\images\\Icon_Phone.svg"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\Icon_Website.svg",
+      "PackagePath": "staticwebassets\\images\\Icon_Website.svg"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\Linea_Verde.svg",
+      "PackagePath": "staticwebassets\\images\\Linea_Verde.svg"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\anuar.jpg",
+      "PackagePath": "staticwebassets\\images\\anuar.jpg"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\doug.png",
+      "PackagePath": "staticwebassets\\images\\doug.png"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\emilio.jpg",
+      "PackagePath": "staticwebassets\\images\\emilio.jpg"
+    },
+    {
+      "Id": "C:\\code\\Developers.net\\DevelopersNet.vCard.Web\\DevelopersNet.vCard.Web\\wwwroot\\images\\paola.jpg",
+      "PackagePath": "staticwebassets\\images\\paola.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.DevelopersNet.vCard.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.DevelopersNet.vCard.Web.props",
+      "PackagePath": "build\\DevelopersNet.vCard.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DevelopersNet.vCard.Web.props",
+      "PackagePath": "buildMultiTargeting\\DevelopersNet.vCard.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.DevelopersNet.vCard.Web.props",
+      "PackagePath": "buildTransitive\\DevelopersNet.vCard.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

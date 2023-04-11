@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win5073.site4now.net:21/vcards</_PublishTargetUrl>
+    <History>True|2023-04-11T14:29:34.2939021Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>01/19/2022 11:48:00</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>01/19/2022 11:48:00</publishTime>
+    </File>
+    <File Include="DevelopersNet.vCard.Web.deps.json">
+      <publishTime>04/11/2023 08:29:00</publishTime>
+    </File>
+    <File Include="DevelopersNet.vCard.Web.dll">
+      <publishTime>04/11/2023 08:29:00</publishTime>
+    </File>
+    <File Include="DevelopersNet.vCard.Web.exe">
+      <publishTime>04/11/2023 08:29:00</publishTime>
+    </File>
+    <File Include="DevelopersNet.vCard.Web.pdb">
+      <publishTime>04/11/2023 08:29:00</publishTime>
+    </File>
+    <File Include="DevelopersNet.vCard.Web.runtimeconfig.json">
+      <publishTime>04/10/2023 10:51:14</publishTime>
+    </File>
+    <File Include="Profiles/anuar.json">
+      <publishTime>04/10/2023 10:23:44</publishTime>
+    </File>
+    <File Include="Profiles/doug.json">
+      <publishTime>04/10/2023 10:10:03</publishTime>
+    </File>
+    <File Include="Profiles/emilio.json">
+      <publishTime>04/10/2023 10:12:30</publishTime>
+    </File>
+    <File Include="Profiles/paola.json">
+      <publishTime>04/10/2023 10:37:29</publishTime>
+    </File>
+    <File Include="vCards/doug.vcf">
+      <publishTime>01/19/2022 13:34:42</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/11/2023 08:29:12</publishTime>
+    </File>
+    <File Include="wwwroot/css/styles.css">
+      <publishTime>04/10/2023 10:19:14</publishTime>
+    </File>
+    <File Include="wwwroot/images/anuar.jpg">
+      <publishTime>04/10/2023 10:21:47</publishTime>
+    </File>
+    <File Include="wwwroot/images/Background.png">
+      <publishTime>03/30/2023 10:13:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/doug.png">
+      <publishTime>03/31/2023 10:17:18</publishTime>
+    </File>
+    <File Include="wwwroot/images/emilio.jpg">
+      <publishTime>04/10/2023 09:25:39</publishTime>
+    </File>
+    <File Include="wwwroot/images/Icon_Add.svg">
+      <publishTime>03/31/2023 12:13:10</publishTime>
+    </File>
+    <File Include="wwwroot/images/Icon_Address.svg">
+      <publishTime>03/29/2023 17:52:10</publishTime>
+    </File>
+    <File Include="wwwroot/images/Icon_Email.svg">
+      <publishTime>03/29/2023 17:52:10</publishTime>
+    </File>
+    <File Include="wwwroot/images/Icon_Phone.svg">
+      <publishTime>03/29/2023 17:52:10</publishTime>
+    </File>
+    <File Include="wwwroot/images/Icon_Website.svg">
+      <publishTime>03/29/2023 17:52:10</publishTime>
+    </File>
+    <File Include="wwwroot/images/Linea_Verde.svg">
+      <publishTime>03/30/2023 10:19:50</publishTime>
+    </File>
+    <File Include="wwwroot/images/paola.jpg">
+      <publishTime>04/10/2023 10:27:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
